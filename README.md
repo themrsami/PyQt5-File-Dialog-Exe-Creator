@@ -4,7 +4,7 @@ This program utilizes PyQt5 to provide a file dialog interface for selecting a P
 
 ## Usage
 
-1. Download the program from the [Releases](link_to_releases_page) page.
+1. Download the program from the [Releases](https://github.com/themrsami/PyQt5-File-Dialog-Exe-Creator) page.
 
 2. Double-click the downloaded executable file (.exe) to run the program.
 
